@@ -9,6 +9,3 @@ pip install --user -r requirements.txt
 
 ### Запуск
 python main.py
-
-### Тест
-https://t.me/knigo_find_bot
